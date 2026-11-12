@@ -12,12 +12,15 @@
 ## 🐍 Contribution Snake
 
 
-<h2 align="center">👻 Ghost Mode</h2>
+<h2 align="center">🐍 My Contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GhostByteXD/GhostByteXD/output/github-snake-dark.svg" />
-</p>
-
-<p align="center">
-  <i>Lost in the code. Found in the commits.</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GhostByteXD/GhostByteXD/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GhostByteXD/GhostByteXD/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/GhostByteXD/GhostByteXD/output/github-snake.svg" />
+  </picture>
 </p>
